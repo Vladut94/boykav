@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on superheroes project
+- 🌱 I’m currently learning JavaScript
+
+
 <!--
 **boykav/boykav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
